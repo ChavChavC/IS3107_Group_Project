@@ -1,0 +1,3 @@
+data/Kaggle_TripAdvisor/raw/*.txt
+airflow/logs/
+plugins/soure/__pycache__
